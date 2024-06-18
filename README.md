@@ -14,7 +14,7 @@
 - [Project 2]([https://github.com/your-github-username/project2](https://leetcode.com/u/kartikeyaranjan01/)) - Leetcode
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kartikeya-ranjan-845693201/))
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kartikeya-ranjan-845693201/)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
