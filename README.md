@@ -18,6 +18,7 @@
 ## Connect with Me
 - LinkedIn - https://www.linkedin.com/in/kartikeya-ranjan-845693201/
 - Gmail - kartikeyaranjan02@gmail.com
+- X - https://x.com/KartikeyaRanjan
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeya01&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya01&layout=compact&theme=radical)
