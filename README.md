@@ -11,8 +11,8 @@
 - **Technologies**: React, Next.js, Node.js, MongoDB, Ethereum
 
 ## Coding Profiles
-- Codeforces - https://github.com/your-github-username/project1](https://codeforces.com/profile/kartikeya_r_01
-- Leetcode - https://github.com/your-github-username/project2](https://leetcode.com/u/kartikeyaranjan01/
+- Codeforces - https://codeforces.com/profile/kartikeya_r_01
+- Leetcode - https://leetcode.com/u/kartikeyaranjan01/
 - Codechef - https://www.codechef.com/users/kartikeya_2002
 
 ## Connect with Me
