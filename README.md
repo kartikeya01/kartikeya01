@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Kartikeya Ranjan! 👋
 
-<!--
-**kartikeya01/kartikeya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech in Information Technology from National Institute of Technology Karnataka, Surathkal(NITK)
+- 💼 Summer Internship as Software Developer Intern at Jio Platforms Limited, worked on Knowledge Graphs
+- 🌐 Experienced in web development, blockchain, machine learning, and competitive programming
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: JavaScript, Python, C, C++, Java, Solidity
+- **Technologies**: React, Next.js, Node.js, MongoDB, Ethereum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding Profiles
+- [Project 1]([https://github.com/your-github-username/project1](https://codeforces.com/profile/kartikeya_r_01)) - Codeforces
+- [Project 2]([https://github.com/your-github-username/project2](https://leetcode.com/u/kartikeyaranjan01/)) - Leetcode
+
+## Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kartikeya-ranjan-845693201/))
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
