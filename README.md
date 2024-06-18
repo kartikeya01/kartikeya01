@@ -1,6 +1,7 @@
 # Hi there, I'm Kartikeya Ranjan! 👋
 
 ## About Me
+- 💼 Upcoming SDE at National Payment Corporation of India(NPCI)
 - 🎓 B.Tech in Information Technology from National Institute of Technology Karnataka, Surathkal(NITK)
 - 💼 Summer Internship as Software Developer Intern at Jio Platforms Limited, worked on Knowledge Graphs
 - 🌐 Experienced in web development, blockchain, machine learning, and competitive programming
@@ -10,8 +11,9 @@
 - **Technologies**: React, Next.js, Node.js, MongoDB, Ethereum
 
 ## Coding Profiles
-- [Project 1]([https://github.com/your-github-username/project1](https://codeforces.com/profile/kartikeya_r_01)) - Codeforces
-- [Project 2]([https://github.com/your-github-username/project2](https://leetcode.com/u/kartikeyaranjan01/)) - Leetcode
+- Codeforces - https://github.com/your-github-username/project1](https://codeforces.com/profile/kartikeya_r_01
+- Leetcode - https://github.com/your-github-username/project2](https://leetcode.com/u/kartikeyaranjan01/
+- Codechef - https://www.codechef.com/users/kartikeya_2002
 
 ## Connect with Me
 - LinkedIn - https://www.linkedin.com/in/kartikeya-ranjan-845693201/
